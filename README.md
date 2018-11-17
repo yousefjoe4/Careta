@@ -3,7 +3,7 @@ Careta app
 
 # Desctiption
 Careta is an app for showing users problems with their cars,
-An app that I've edited to a client from just one screen to display many other screens as showen below 
+An app that I've edited it fpr a client from just one screen to display many other screens as shown below 
 # Here are pictures from the app:
 
  # BEFORE </br>
