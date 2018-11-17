@@ -6,8 +6,12 @@ Careta is an app for showing users problems with their cars,
 An app that I've edited to a client from just one screen to display many other screens as showen below 
 # Here are pictures from the app:
 
- ### BEFORE 
- ### AFTER
+ # BEFORE </br>
+ Here's how the app looked before I edited it: </br>
+   <a href="https://ibb.co/bzGJT9"><img src="https://i.imgur.com/pXAP3uE.png" alt="1" border="0" width="300" height="600"></a></br></br>
+
+ # AFTER </br>
+ Here's how the app looks now </br>
   ## 1- Welcome screen </br>
   <a href="https://ibb.co/bzGJT9"><img src="https://i.imgur.com/pbnnZDS.png" alt="1" border="0" width="300" height="600"></a></br></br>
 
@@ -32,11 +36,11 @@ An app that I've edited to a client from just one screen to display many other s
 
 
   ## 6- Home Screen </br>
-  Where all the car issues are displayed
+  Where all the car issues are displayed </br>
   <a href="https://ibb.co/djHE1U"><img src="https://i.imgur.com/O5qX9uS.jpg" alt="6" border="0" width="300" height="600"></a></br></br>
 
   ## 7- Home Screen </br>
-  Where all the car issues are displayed
+  Where all the car issues are displayed </br>
   <a href="https://ibb.co/dExBWU"><img src="https://i.imgur.com/jEJHlkN.jpg" alt="Screenshot_1533793428" border="0" width="300" height="600"></a></br>
 
   ## 8- Engine Issues Screen </br>
